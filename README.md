@@ -22,10 +22,10 @@ To get started with the project, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/doctor-appointment-booking.git
+git clone <repo URL>
+
 cd doctor-appointment-booking
+
 Install the dependencies for both the frontend and backend:
 
 bash
